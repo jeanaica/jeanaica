@@ -9,7 +9,7 @@
 ### 📫 How to reach me: 
 
   - :email: : sjeanaica@gmail.com
-  - :globe_with_meridians: : https://www.linkedin.com/feed/
+  - :globe_with_meridians: : https://www.linkedin.com/in/jeanaicasuplido/
   
 ### :cat: Technologies/Libraries/Frameworks I've used
 
