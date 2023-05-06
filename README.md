@@ -23,10 +23,10 @@
   - NodeJS
   - Python
   - Tailwind
+  - ExtJS
   
 ### 🌱 I’m currently learning 
 
-  - ExtJS
   - Making my programming fundamentals stronger
   - Flutter
   - Python
