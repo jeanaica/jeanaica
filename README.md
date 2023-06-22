@@ -3,7 +3,7 @@
 
 ### 🔭 I’m currently working on
 
-  - [My blog](https://blog.jeanaica.com)
+  - [Life in Peach](https://www.lifeinpeach.com)
   - [Portfolio](https://jeanaica.com)
   
 ### 📫 How to reach me: 
