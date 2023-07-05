@@ -1,5 +1,5 @@
 
-# [Jeanaica Suplido](https://jeanaica.com)
+# [Jeanaica Alinsub](https://jeanaica.com)
 
 ### 🔭 I’m currently working on
 
