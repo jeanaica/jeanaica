@@ -27,7 +27,9 @@
   
 ### 🌱 I’m currently learning 
 
+  - To code everyday
   - Making my programming fundamentals stronger
+  - NextJS
   - Flutter
   - Python
   - ReactJS
