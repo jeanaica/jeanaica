@@ -5,6 +5,7 @@
 
   - [Life in Peach](https://www.lifeinpeach.com)
   - [Portfolio](https://jeanaica.com)
+  - [Code Everyday](https://github.com/jeanaica/code-everyday)
   
 ### 📫 How to reach me: 
 
