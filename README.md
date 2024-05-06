@@ -9,7 +9,7 @@
   
 ### 📫 How to reach me: 
 
-  - :email: : sjeanaica@gmail.com
+  - :email: : [calendly](https://calendly.com/jeanaica)
   - :globe_with_meridians: : [linkedin.com/in/jeanaicasuplido/](https://www.linkedin.com/in/jeanaicasuplido/)
   - :globe_with_meridians: : [jeanaica.com](https://jeanaica.com)
   
