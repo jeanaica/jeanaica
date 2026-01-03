@@ -3,9 +3,8 @@
 
 ### 🔭 I’m currently working on
 
-  - [Life in Peach](https://www.lifeinpeach.com)
   - [Portfolio](https://jeanaica.com)
-  - [Code Everyday](https://github.com/jeanaica/code-everyday)
+  - [Code 2026](https://github.com/jeanaica/code-2026)
   
 ### 📫 How to reach me: 
 
@@ -31,7 +30,6 @@
   - To code everyday
   - Making my programming fundamentals stronger
   - NextJS
-  - Flutter
   - Python
   - ReactJS
   
