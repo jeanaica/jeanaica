@@ -1,63 +1,36 @@
+# Jeanaica Alinsub 🧚‍♀️
 
-# [Jeanaica Alinsub](https://jeanaica.com)
+**Frontend Lead** • Philippines 🇵🇭 • Building things with intention
 
-### 🔭 I’m currently working on
+### ✨ What I'm Up To
 
-  - [Portfolio](https://jeanaica.com)
-  - [Code 2026](https://github.com/jeanaica/code-2026)
-  
-### 📫 How to reach me: 
+2026 is my back-to-basics year. Committing daily, learning properly, growing on purpose.
 
-  - :email: : [calendly](https://calendly.com/jeanaica)
-  - :globe_with_meridians: : [linkedin.com/in/jeanaicasuplido/](https://www.linkedin.com/in/jeanaicasuplido/)
-  - :globe_with_meridians: : [jeanaica.com](https://jeanaica.com)
-  
-### :cat: Technologies/Libraries/Frameworks I've used
+📂 [Follow my journey](https://github.com/jeanaica/code-2026)
 
-  - ReactJS
-  - NextJS
-  - AngularJS
-  - React Native
-  - GraphQL
-  - Firebase
-  - NodeJS
-  - Python
-  - Tailwind
-  - ExtJS
-  
-### 🌱 I’m currently learning 
+### 🌐 My Sites
 
-  - To code everyday
-  - Making my programming fundamentals stronger
-  - NextJS
-  - Python
-  - ReactJS
-  
-### 🤔 I’m looking for help with
+**[jeanaica.com](https://jeanaica.com)** — Portfolio
 
-  - Finding a fellow coder who can work passionately with projects 
-  - Finding a community for women in tech in the Philippines
-  
-### 💬 Ask me about
+**[Life in Peach](https://lifeinpeach.com)** — Personal blog where I write about faith, mental health, tech, and life. *The Sweet, The Tangy, and The Unexpected.*
 
-  - Frontend development
-  - Mental health 
-  - Being a Christian
-  
+### 🛠️ Tools & Tech
 
-### ⚡ Fun fact:
-  
-  - I have a third eyebrow. :rofl:
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<!--
-**jeanaica/jeanaica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💬 Ask Me About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frontend development • Mental health in tech • Faith & work
+
+### 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jeanaicasuplido/)
+[![Twitter](https://img.shields.io/badge/-@frontendFairy-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/frontendFairy)
