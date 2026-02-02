@@ -10,9 +10,9 @@
 
 ### 🌐 My Sites
 
-**[jeanaica.com](https://jeanaica.com)** — Portfolio
+**[jeanaica.com](https://jeanaica.com)** — Portfolio, Blog
 
-**[Life in Peach](https://lifeinpeach.com)** — Personal blog where I write about faith, mental health, tech, and life. *The Sweet, The Tangy, and The Unexpected.*
+**[Life in Peach](https://lifeinpeach.com)** — (will sunset this after fully migrating to jeanaica.com) Personal blog where I write about faith, mental health, tech, and life. *The Sweet, The Tangy, and The Unexpected.*
 
 ### 🛠️ Tools & Tech
 
